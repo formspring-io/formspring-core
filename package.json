@@ -4,11 +4,11 @@
     "description": "The core library for Formspring",
     "homepage": "https://formspring.io",
     "bugs": {
-        "url": "https://github.com/formspring/formspring-core/issues"
+        "url": "https://github.com/formspring-io/formspring-core/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/formspring/formspring-core.git"
+        "url": "https://github.com/formspring-io/formspring-core.git"
     },
     "license": "MIT",
     "author": "Florian Wartner",
